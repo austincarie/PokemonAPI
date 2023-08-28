@@ -1,0 +1,23 @@
+table, th, td {
+    border: solid 3px white;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+body {
+    text-align: center;
+    font-family: 'pokemon_gbregular';
+    background-image: url('pokeball.png');
+    background-size: cover;
+}
+th, td {
+    font-size: 10px;
+    padding: 5px;
+    color: white;
+}
+
+.logo {
+    max-width: 15%;
+    max-height: 15%;
+}
